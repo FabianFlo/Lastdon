@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAg8DRfLzPQKeVyuHBlMPdOLgNJrP2mbsA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>125566717196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.lastdon2</string>
+	<key>PROJECT_ID</key>
+	<string>lastdon-app-89d0b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lastdon-app-89d0b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:125566717196:ios:933e43296b6487772b8d29</string>
+</dict>
+</plist>

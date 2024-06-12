@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125566717196",
+    "project_id": "lastdon-app-89d0b",
+    "storage_bucket": "lastdon-app-89d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125566717196:android:0627c73121520ddb2b8d29",
+        "android_client_info": {
+          "package_name": "com.mycompany.lastdon2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkv1Lr7bb0bVAy_nOywjp0Ba210dQ5-o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
